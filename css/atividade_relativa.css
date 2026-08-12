@@ -1,0 +1,49 @@
+#fundo {
+    position: relative;
+    width: 90%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+}
+
+#azul {
+    position: relative;
+    width: 10%;
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
+
+#vermelho {
+    position: relative;
+    width: 90%;
+    height: 100px;
+    background-color: rgba(255, 13, 0, 0.909);
+    float: left;
+}
+
+#verde {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: rgba(9, 210, 55, 0.909);
+    clear: left;
+}
+
+#amarelo {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(238, 255, 0);
+    border: 10px solid red;
+    box-sizing: border-box; 
+}
+
+#cinza {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(108, 107, 140);
+}
+
